@@ -1,0 +1,7 @@
+// memory data file (do not edit the following line - required for mem load use)
+// instance=/aprocessor/IFetch/InstrMem/ram
+// format=mti addressradix=d dataradix=b version=1.0 wordsperline=1
+0: 0000000000010000
+1: 0000000000000000
+2: 0000000100000000
+3: 0000000000000000

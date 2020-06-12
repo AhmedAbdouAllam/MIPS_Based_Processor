@@ -1,0 +1,299 @@
+D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionDecode.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionDecode.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity InstructionDecodingUnit
+-- Compiling architecture InstructionDecodingUnitArch of InstructionDecodingUnit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/RegisterFileModified.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/RegisterFileModified.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity RegFile
+-- Compiling architecture RegFileArch of RegFile
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux4X1.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux4X1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUXFourByOne
+-- Compiling architecture ArchMUXFourByOne of MUXFourByOne
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/StackPointer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/StackPointer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity StackPointer
+-- Compiling architecture StackPointerArch of StackPointer
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/FlagRegister.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/FlagRegister.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FlagRegister
+-- Compiling architecture FlagRegisterArch of FlagRegister
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyALU.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyALU.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture My_ALU of ALU
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/cu.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/cu.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ControlUnit
+-- Compiling architecture ControlUnitArch of ControlUnit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AProcessor.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AProcessor.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity AProcessor
+-- Compiling architecture AProcessorArch of AProcessor
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/SignExtend.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/SignExtend.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend
+-- Compiling architecture SignExtendArch of SignExtend
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/HDU.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/HDU.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HDU
+-- Compiling architecture MY_HDU of HDU
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Buffer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Buffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity IFBuffer
+-- Compiling architecture IFBufferArch of IFBuffer
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AdderFetch.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AdderFetch.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AdderFetch
+-- Compiling architecture ArchAdderFetch of AdderFetch
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OrGate.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OrGate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity OrGate
+-- Compiling architecture OrGateArch of OrGate
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nBitRegister.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nBitRegister.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nBitRegister
+-- Compiling architecture nBitRegisterArch of nBitRegister
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/DataMemory.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/DataMemory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DataMemory
+-- Compiling architecture DataMemoryArch of DataMemory
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyNBitAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyNBitAdder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_nadder
+-- Compiling architecture a_my_nadder of my_nadder
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MUX8X1.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MUX8X1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUXEightByOne
+-- Compiling architecture ArchMUXEightByOne of MUXEightByOne
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/GeneralIntermidieteBuffer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/GeneralIntermidieteBuffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity GeneralBuffer
+-- Compiling architecture GeneralBufferArch of GeneralBuffer
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ExecutionUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ExecutionUnit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity ExecutionUnit
+-- Compiling architecture ExecutionUnitUnitArch of ExecutionUnit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OutPort.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OutPort.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Outport
+-- Compiling architecture OutportArch of Outport
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptBuffer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptBuffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity InteruptBuffer
+-- Compiling architecture InteruptBufferArch of InteruptBuffer
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptFullUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptFullUnit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity InteruptUnit
+-- Compiling architecture InteruptUnitArch of InteruptUnit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyOneBitAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyOneBitAdder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_adder
+-- Compiling architecture a_my_adder of my_adder
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/BitAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/BitAdder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BitAdder
+-- Compiling architecture ArchBitAdder of BitAdder
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ProgramCounter.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ProgramCounter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ProgramCounter
+-- Compiling architecture ProgramCounterArch of ProgramCounter
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nTriStateBuffer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nTriStateBuffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nTriStateBuffer
+-- Compiling architecture nTriStateBufferArch of nTriStateBuffer
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MemoryUnitAndWriteBack.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MemoryUnitAndWriteBack.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MemAndWBUnits
+-- Compiling architecture MemAndWBUnitsArch of MemAndWBUnits
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nXmDecoder.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nXmDecoder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity nXmDecoder
+-- Compiling architecture nXmDecoderArch of nXmDecoder
+** Warning: D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nXmDecoder.vhd(40): (vcom-1073) Non-locally static choice (association #1, choice #1) is allowed only if it is the only choice of the only association.
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Memory.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Memory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity InstructionMemory
+-- Compiling architecture InstructionMemoryArch of InstructionMemory
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptHandler.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptHandler.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity InteruptHandler
+-- Compiling architecture InteruptHandlerArch of InteruptHandler
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionFetchingUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionFetchingUnit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity InstructionFetchingUnit
+-- Compiling architecture InstructionFetchingUnitArch of InstructionFetchingUnit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionConcatenator.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionConcatenator.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity InstructionConcatenator
+-- Compiling architecture InstructionConcatenatorArch of InstructionConcatenator
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ForwardingUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ForwardingUnit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FW_Unit
+-- Compiling architecture My_FW_Unit of FW_Unit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AndGate.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AndGate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AndGate
+-- Compiling architecture AndGateArch of AndGate
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux2X1.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux2X1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUXTwoByOne
+-- Compiling architecture ArchMUXTwoByOne of MUXTwoByOne
+
+} {} {}}

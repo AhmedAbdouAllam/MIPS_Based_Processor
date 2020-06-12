@@ -1,0 +1,1409 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Computer_architectueProject2020/Code/InstructionFetch
+Eadderfetch
+Z0 w1586889655
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache
+Z4 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AdderFetch.vhd
+Z5 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AdderFetch.vhd
+l0
+L4
+VDZVhn32jb4=`[mUijY_lm0
+!s100 7Q:D?50BhQUBlJeW5Mk?U3
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1590995926
+!i10b 1
+Z8 !s108 1590995926.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AdderFetch.vhd|
+Z10 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AdderFetch.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarchadderfetch
+R1
+R2
+DEx4 work 10 adderfetch 0 22 DZVhn32jb4=`[mUijY_lm0
+l20
+L11
+VLYn10fPFA:hY1?;G9BL670
+!s100 J1_ngQkaYGmoY63D8daIL0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ealu
+Z13 w1590102777
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z15 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyALU.vhd
+Z16 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyALU.vhd
+l0
+L5
+VWhC1zmf1XoO0oA`Ud5glc3
+!s100 L4m:DSJ_@KUnV0V9]_UZQ0
+R6
+32
+Z17 !s110 1590995928
+!i10b 1
+Z18 !s108 1590995928.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyALU.vhd|
+Z20 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyALU.vhd|
+!i113 1
+R11
+R12
+Amy_alu
+R14
+R1
+R2
+DEx4 work 3 alu 0 22 WhC1zmf1XoO0oA`Ud5glc3
+l40
+L18
+VV06>[cQeAPB_XR?<;;aaQ1
+!s100 kR5SYHE8G8kS^`IR37DK[1
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Eandgate
+Z21 w1588478463
+R1
+R2
+R3
+Z22 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AndGate.vhd
+Z23 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AndGate.vhd
+l0
+L8
+VD1=R<Q=Y=UGMbekd<>_HA1
+!s100 >mLHY2zAm3NU>PG1ClW]L3
+R6
+32
+R7
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AndGate.vhd|
+Z25 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AndGate.vhd|
+!i113 1
+R11
+R12
+Aandgatearch
+R1
+R2
+DEx4 work 7 andgate 0 22 D1=R<Q=Y=UGMbekd<>_HA1
+l18
+L16
+V?R^lVA4iOj:;ZzPXgf7XK3
+!s100 `ZI124^:8h42GmTE8fO7Y1
+R6
+32
+R7
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12
+Eaprocessor
+Z26 w1590937156
+R14
+Z27 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R1
+R2
+R3
+Z28 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AProcessor.vhd
+Z29 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AProcessor.vhd
+l0
+L7
+VY4c@HzIizcUZG2PFMGgY41
+!s100 RLRI;2bDQhjTA=_zf=E3[0
+R6
+32
+R7
+!i10b 1
+R8
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AProcessor.vhd|
+Z31 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/AProcessor.vhd|
+!i113 1
+R11
+R12
+Aaprocessorarch
+R14
+R27
+R1
+R2
+DEx4 work 10 aprocessor 0 22 Y4c@HzIizcUZG2PFMGgY41
+l185
+L22
+V:[WmP^FSdkLVjkE?6O^aj2
+!s100 M6U_SQz4:NcicGLlg[mdi2
+R6
+32
+R7
+!i10b 1
+R8
+R30
+R31
+!i113 1
+R11
+R12
+Ebitadder
+Z32 w1582185451
+R1
+R2
+R3
+Z33 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/BitAdder.vhd
+Z34 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/BitAdder.vhd
+l0
+L5
+VkLe6ioMSPGYXQ@bAn2<7L0
+!s100 ?oGBU20H4PgKCX59Qel>A1
+R6
+32
+R7
+!i10b 1
+R8
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/BitAdder.vhd|
+Z36 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/BitAdder.vhd|
+!i113 1
+R11
+R12
+Aarchbitadder
+R1
+R2
+DEx4 work 8 bitadder 0 22 kLe6ioMSPGYXQ@bAn2<7L0
+l14
+L13
+V8`9_1:emIgFQ8mWRQNjBP3
+!s100 nS:fOI>L@XEB9JPjZg:Y<0
+R6
+32
+R7
+!i10b 1
+R8
+R35
+R36
+!i113 1
+R11
+R12
+Econtrolunit
+Z37 w1590090742
+R1
+R2
+R3
+Z38 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/cu.vhd
+Z39 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/cu.vhd
+l0
+L5
+ViB5Db1M_mze0^7iN?bnc11
+!s100 <W]KD9D5eF2Vj7W5GRZ]21
+R6
+32
+R7
+!i10b 1
+R8
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/cu.vhd|
+Z41 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/cu.vhd|
+!i113 1
+R11
+R12
+Acontrolunitarch
+R1
+R2
+DEx4 work 11 controlunit 0 22 iB5Db1M_mze0^7iN?bnc11
+l44
+L43
+V:i5zAUQ`cV:mOZK:V^X:D1
+!s100 d]0WgY5o>GQAfeNd8YGY_2
+R6
+32
+R7
+!i10b 1
+R8
+R40
+R41
+!i113 1
+R11
+R12
+Edatamemory
+Z42 w1590935220
+R14
+R1
+R2
+R3
+Z43 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/DataMemory.vhd
+Z44 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/DataMemory.vhd
+l0
+L5
+V;Mj@KAdW`cJfPNPW_n]m[1
+!s100 ^Xk>NJHQ_B7@YbnOm_46I0
+R6
+32
+Z45 !s110 1590995927
+!i10b 1
+R8
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/DataMemory.vhd|
+Z47 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/DataMemory.vhd|
+!i113 1
+R11
+R12
+Adatamemoryarch
+R14
+R1
+R2
+DEx4 work 10 datamemory 0 22 ;Mj@KAdW`cJfPNPW_n]m[1
+l28
+L17
+V4g:KMnHFDSEV7djd5]Z<T1
+!s100 ogVYnO5<dRnWm]N0dWU431
+R6
+32
+R45
+!i10b 1
+R8
+R46
+R47
+!i113 1
+R11
+R12
+Eexecutionunit
+Z48 w1588781406
+R14
+R27
+R1
+R2
+R3
+Z49 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ExecutionUnit.vhd
+Z50 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ExecutionUnit.vhd
+l0
+L6
+VU1d>YMeHKD?CGJYnMZ<@H1
+!s100 86m^W?[K2<Eb`ek[ZMIFA0
+R6
+32
+R45
+!i10b 1
+Z51 !s108 1590995927.000000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ExecutionUnit.vhd|
+Z53 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ExecutionUnit.vhd|
+!i113 1
+R11
+R12
+Aexecutionunitunitarch
+R14
+R27
+R1
+R2
+DEx4 work 13 executionunit 0 22 U1d>YMeHKD?CGJYnMZ<@H1
+l133
+L34
+VAhz9ai6B`4d]12L?i9V<D2
+!s100 `WQ^Qj>Z6ol6@7:KMdT=`0
+R6
+32
+R45
+!i10b 1
+R51
+R52
+R53
+!i113 1
+R11
+R12
+Eflagregister
+Z54 w1588649863
+R1
+R2
+R3
+Z55 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/FlagRegister.vhd
+Z56 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/FlagRegister.vhd
+l0
+L6
+VLflV?7YM@U]BIfkCdOOEh1
+!s100 ^65WeAPQRY2Q:oH?0>RgN0
+R6
+32
+R45
+!i10b 1
+R51
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/FlagRegister.vhd|
+Z58 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/FlagRegister.vhd|
+!i113 1
+R11
+R12
+Aflagregisterarch
+R1
+R2
+DEx4 work 12 flagregister 0 22 LflV?7YM@U]BIfkCdOOEh1
+l20
+L18
+V5J?3Z;:Hz<;6?]5i3O=KL1
+!s100 ?3aBL?2UC6TmR8LXJ<`Y>2
+R6
+32
+R45
+!i10b 1
+R51
+R57
+R58
+!i113 1
+R11
+R12
+Efw_unit
+Z59 w1588718122
+R1
+R2
+R3
+Z60 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ForwardingUnit.vhd
+Z61 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ForwardingUnit.vhd
+l0
+L5
+VS?`@gAgmez:<3=^co6nDP2
+!s100 hLYC^Q9WHj^=zmnT3Q6mB3
+R6
+32
+R45
+!i10b 1
+R51
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ForwardingUnit.vhd|
+Z63 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ForwardingUnit.vhd|
+!i113 1
+R11
+R12
+Amy_fw_unit
+R1
+R2
+DEx4 work 7 fw_unit 0 22 S?`@gAgmez:<3=^co6nDP2
+l14
+L12
+V8VgOnY0hQW^07OCW6oG4U1
+!s100 ::VBlJ]gIFE[QaCQolYX:1
+R6
+32
+R45
+!i10b 1
+R51
+R62
+R63
+!i113 1
+R11
+R12
+Egeneralbuffer
+Z64 w1588471011
+R1
+R2
+R3
+Z65 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/GeneralIntermidieteBuffer.vhd
+Z66 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/GeneralIntermidieteBuffer.vhd
+l0
+L6
+VJGhY?:fEQK;CL:nY7J[I;3
+!s100 ZHge0nfe`iU9GeZlTg[P;2
+R6
+32
+R45
+!i10b 1
+R51
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/GeneralIntermidieteBuffer.vhd|
+Z68 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/GeneralIntermidieteBuffer.vhd|
+!i113 1
+R11
+R12
+Ageneralbufferarch
+R1
+R2
+DEx4 work 13 generalbuffer 0 22 JGhY?:fEQK;CL:nY7J[I;3
+l24
+L22
+V?[2=]C0ezXAO[ZOj>Yd2O3
+!s100 58oX>bfX7mHXZ?bVf0hG<0
+R6
+32
+R45
+!i10b 1
+R51
+R67
+R68
+!i113 1
+R11
+R12
+Ehdu
+Z69 w1588558873
+R1
+R2
+R3
+Z70 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/HDU.vhd
+Z71 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/HDU.vhd
+l0
+L3
+VL[IBdJ`K<DI4U0aY4Ngdc3
+!s100 KKi[7Je>3l`KUB=0kz3W53
+R6
+32
+R45
+!i10b 1
+R51
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/HDU.vhd|
+Z73 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/HDU.vhd|
+!i113 1
+R11
+R12
+Amy_hdu
+R1
+R2
+DEx4 work 3 hdu 0 22 L[IBdJ`K<DI4U0aY4Ngdc3
+l11
+L10
+V@hA=bhS9AHVXY?2d1WP3O1
+!s100 Ez^1=nR^;1Gac4H5QYLhS2
+R6
+32
+R45
+!i10b 1
+R51
+R72
+R73
+!i113 1
+R11
+R12
+Eifbuffer
+Z74 w1588653205
+R1
+R2
+R3
+Z75 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Buffer.vhd
+Z76 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Buffer.vhd
+l0
+L6
+VKDX8o@:>a>al^mbABCZlb0
+!s100 BdYNWdQOhFM[F:KR5Z?;L3
+R6
+32
+R7
+!i10b 1
+R8
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Buffer.vhd|
+Z78 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Buffer.vhd|
+!i113 1
+R11
+R12
+Aifbufferarch
+R1
+R2
+DEx4 work 8 ifbuffer 0 22 KDX8o@:>a>al^mbABCZlb0
+l16
+L14
+Vl3N^TD^=d4ADoBmK?J^Xk3
+!s100 ^ZP[cAgL>;adOcCzWg[Ff0
+R6
+32
+R7
+!i10b 1
+R8
+R77
+R78
+!i113 1
+R11
+R12
+Einstructionconcatenator
+Z79 w1587045839
+R1
+R2
+R3
+Z80 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionConcatenator.vhd
+Z81 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionConcatenator.vhd
+l0
+L13
+VW3;GKVFLPD2^O5GDa^WKN3
+!s100 d;j;=FL]DkHTTJTblzb<B3
+R6
+32
+R45
+!i10b 1
+R51
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionConcatenator.vhd|
+Z83 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionConcatenator.vhd|
+!i113 1
+R11
+R12
+Ainstructionconcatenatorarch
+R1
+R2
+DEx4 work 23 instructionconcatenator 0 22 W3;GKVFLPD2^O5GDa^WKN3
+l24
+L22
+VL<2k[mFhkF?JfId9Z:k?D1
+!s100 <2hm`C^_B0Z_=AQ2dKe=V1
+R6
+32
+R45
+!i10b 1
+R51
+R82
+R83
+!i113 1
+R11
+R12
+Einstructiondecodingunit
+Z84 w1590937129
+R14
+R27
+R1
+R2
+R3
+Z85 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionDecode.vhd
+Z86 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionDecode.vhd
+l0
+L7
+VCTm9WnILZPk[N@W^gK1>h0
+!s100 [8iPNYE`UMJImWI[ZjY4g2
+R6
+32
+R45
+!i10b 1
+R51
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionDecode.vhd|
+Z88 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionDecode.vhd|
+!i113 1
+R11
+R12
+Ainstructiondecodingunitarch
+R14
+R27
+R1
+R2
+DEx4 work 23 instructiondecodingunit 0 22 CTm9WnILZPk[N@W^gK1>h0
+l107
+L27
+V6^RYHzgza@VHa4z>C=K^k0
+!s100 VF2PVk_5GS55Qjgfeebmc3
+R6
+32
+R45
+!i10b 1
+R51
+R87
+R88
+!i113 1
+R11
+R12
+Einstructionfetchingunit
+Z89 w1588788899
+R1
+R2
+R3
+Z90 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionFetchingUnit.vhd
+Z91 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionFetchingUnit.vhd
+l0
+L4
+V@hj9C>mkfOo?Sij15Bb>c0
+!s100 e6m8P9dHdcT1>CTK2zdJi2
+R6
+32
+R45
+!i10b 1
+R51
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionFetchingUnit.vhd|
+Z93 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InstructionFetchingUnit.vhd|
+!i113 1
+R11
+R12
+Ainstructionfetchingunitarch
+R1
+R2
+DEx4 work 23 instructionfetchingunit 0 22 @hj9C>mkfOo?Sij15Bb>c0
+l59
+L12
+VD7=]?FmSoD;kgfnh7bgHQ2
+!s100 R[<?KYMY2:?CnK10mY@AW2
+R6
+32
+R45
+!i10b 1
+R51
+R92
+R93
+!i113 1
+R11
+R12
+Einstructionmemory
+Z94 w1586888870
+R14
+R1
+R2
+R3
+Z95 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Memory.vhd
+Z96 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Memory.vhd
+l0
+L5
+VK6Z8=ALOioJ3Q^HoRFL^f0
+!s100 >`EnfAg6Vo`K:Cz3ReJh`3
+R6
+32
+R17
+!i10b 1
+R18
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Memory.vhd|
+Z98 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Memory.vhd|
+!i113 1
+R11
+R12
+Ainstructionmemoryarch
+R14
+R1
+R2
+DEx4 work 17 instructionmemory 0 22 K6Z8=ALOioJ3Q^HoRFL^f0
+l17
+L14
+Vg5UCN2VhC_K?nc=4O9l4b0
+!s100 Vfe9zVz?OQ55Z=bjU3PLo2
+R6
+32
+R17
+!i10b 1
+R18
+R97
+R98
+!i113 1
+R11
+R12
+Einteruptbuffer
+Z99 w1588873621
+R1
+R2
+R3
+Z100 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptBuffer.vhd
+Z101 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptBuffer.vhd
+l0
+L7
+V9mGTem?:CM0NXm@MRB58_2
+!s100 0:074d]j;V6VWW?jMPGYX1
+R6
+32
+R17
+!i10b 1
+R51
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptBuffer.vhd|
+Z103 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptBuffer.vhd|
+!i113 1
+R11
+R12
+Ainteruptbufferarch
+R1
+R2
+DEx4 work 14 interuptbuffer 0 22 9mGTem?:CM0NXm@MRB58_2
+l18
+L16
+VARj4Q54[A6HfmbmOboagb0
+!s100 FdeM@j`48I;kW?ndm>zU01
+R6
+32
+R17
+!i10b 1
+R51
+R102
+R103
+!i113 1
+R11
+R12
+Einterupthandler
+Z104 w1588901070
+R14
+R27
+R1
+R2
+R3
+Z105 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptHandler.vhd
+Z106 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptHandler.vhd
+l0
+L10
+VBi_Q6Am20NR=Ue9B`a7@>1
+!s100 mNg^[3]ofE]kdMMoNSO6l3
+R6
+32
+R17
+!i10b 1
+R18
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptHandler.vhd|
+Z108 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptHandler.vhd|
+!i113 1
+R11
+R12
+Ainterupthandlerarch
+R14
+R27
+R1
+R2
+DEx4 work 15 interupthandler 0 22 Bi_Q6Am20NR=Ue9B`a7@>1
+l40
+L23
+Vm=7T`^JzWS6<g0Z0gJJ070
+!s100 E<oj=ze[LZW6aY84WJSM<0
+R6
+32
+R17
+!i10b 1
+R18
+R107
+R108
+!i113 1
+R11
+R12
+Einteruptunit
+Z109 w1588901340
+R14
+R27
+R1
+R2
+R3
+Z110 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptFullUnit.vhd
+Z111 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptFullUnit.vhd
+l0
+L10
+VMVZ05@BC8DeWTeXLG5E8m2
+!s100 Sz053Zj8OVlz^GBE<koF?3
+R6
+32
+R17
+!i10b 1
+R18
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptFullUnit.vhd|
+Z113 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/InteruptFullUnit.vhd|
+!i113 1
+R11
+R12
+Ainteruptunitarch
+R14
+R27
+R1
+R2
+DEx4 work 12 interuptunit 0 22 MVZ05@BC8DeWTeXLG5E8m2
+l48
+L24
+V>C^diYf4K4;eCFhHaLWGa2
+!s100 _TZ7_3ec]WNO_lLUlf4mR3
+R6
+32
+R17
+!i10b 1
+R18
+R112
+R113
+!i113 1
+R11
+R12
+Ememandwbunits
+Z114 w1588895447
+R1
+R2
+R3
+Z115 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MemoryUnitAndWriteBack.vhd
+Z116 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MemoryUnitAndWriteBack.vhd
+l0
+L4
+Vm9]YY90?72_TZ_NkmM_eO1
+!s100 =XO9UTi=28JIWVWiaLCAn1
+R6
+32
+R17
+!i10b 1
+R18
+Z117 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MemoryUnitAndWriteBack.vhd|
+Z118 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MemoryUnitAndWriteBack.vhd|
+!i113 1
+R11
+R12
+Amemandwbunitsarch
+R1
+R2
+DEx4 work 13 memandwbunits 0 22 m9]YY90?72_TZ_NkmM_eO1
+l96
+L25
+VJg5VDembHi5PD9@n8zE:80
+!s100 WYicM6USiOiB`a3J<HmPa2
+R6
+32
+R17
+!i10b 1
+R18
+R117
+R118
+!i113 1
+R11
+R12
+Emuxeightbyone
+Z119 w1588487272
+R1
+R2
+R3
+Z120 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MUX8X1.vhd
+Z121 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MUX8X1.vhd
+l0
+L4
+V6GDU=kc3ZC=HOV1QISOE72
+!s100 09WOMNRcS70]RAWF<V<Yd1
+R6
+32
+R17
+!i10b 1
+R18
+Z122 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MUX8X1.vhd|
+Z123 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MUX8X1.vhd|
+!i113 1
+R11
+R12
+Aarchmuxeightbyone
+R1
+R2
+DEx4 work 13 muxeightbyone 0 22 6GDU=kc3ZC=HOV1QISOE72
+l12
+L11
+VNCjQPlkK`B:eK4>[WHoh^3
+!s100 ECS>j5<L5I0TMg>?BT5kY1
+R6
+32
+R17
+!i10b 1
+R18
+R122
+R123
+!i113 1
+R11
+R12
+Emuxfourbyone
+Z124 w1588487072
+R1
+R2
+R3
+Z125 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux4X1.vhd
+Z126 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux4X1.vhd
+l0
+L4
+VzfcUldnlYAM8Uam6VV2S;0
+!s100 i3dLT2O7FH2nA6hZ636^a0
+R6
+32
+R17
+!i10b 1
+R18
+Z127 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux4X1.vhd|
+Z128 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux4X1.vhd|
+!i113 1
+R11
+R12
+Aarchmuxfourbyone
+R1
+R2
+DEx4 work 12 muxfourbyone 0 22 zfcUldnlYAM8Uam6VV2S;0
+l12
+L11
+V`b]C9X0^;Q0]7Y0G197<11
+!s100 2eebAN;i@^MEC`19M8hf32
+R6
+32
+R17
+!i10b 1
+R18
+R127
+R128
+!i113 1
+R11
+R12
+Emuxtwobyone
+Z129 w1586885616
+R1
+R2
+R3
+Z130 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux2X1.vhd
+Z131 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux2X1.vhd
+l0
+L4
+V3GN?VC3>n32RCDe:YVElN0
+!s100 Koziz0NV4?eo8FPO795b81
+R6
+32
+R17
+!i10b 1
+R18
+Z132 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux2X1.vhd|
+Z133 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/Mux2X1.vhd|
+!i113 1
+R11
+R12
+Aarchmuxtwobyone
+R1
+R2
+DEx4 work 11 muxtwobyone 0 22 3GN?VC3>n32RCDe:YVElN0
+l12
+L11
+VA11;nCgnF50oWBO`Rk<B:1
+!s100 ;X[>m0LDWdcSceS^4onz>0
+R6
+32
+R17
+!i10b 1
+R18
+R132
+R133
+!i113 1
+R11
+R12
+Emy_adder
+Z134 w1588477755
+R1
+R2
+R3
+Z135 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyOneBitAdder.vhd
+Z136 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyOneBitAdder.vhd
+l0
+L6
+V>@je85REGbC5G=40_<o3i3
+!s100 a?_`CWEU>`OF=190dhG<<2
+R6
+32
+Z137 !s110 1590995929
+!i10b 1
+Z138 !s108 1590995929.000000
+Z139 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyOneBitAdder.vhd|
+Z140 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyOneBitAdder.vhd|
+!i113 1
+R11
+R12
+Aa_my_adder
+R1
+R2
+DEx4 work 8 my_adder 0 22 >@je85REGbC5G=40_<o3i3
+l11
+L10
+V[WZ>HWGZKMLG:i=Vd8hA10
+!s100 M_coMKke7_R^X@Rf5n@=S3
+R6
+32
+R137
+!i10b 1
+R138
+R139
+R140
+!i113 1
+R11
+R12
+Emy_nadder
+Z141 w1588567721
+R1
+R2
+R3
+Z142 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyNBitAdder.vhd
+Z143 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyNBitAdder.vhd
+l0
+L4
+V7VcQ@IgQ6TmPIYfE:@O:Q3
+!s100 ]N7GcKLLjNMjb7OH:NYDj0
+R6
+32
+R17
+!i10b 1
+R18
+Z144 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyNBitAdder.vhd|
+Z145 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/MyNBitAdder.vhd|
+!i113 1
+R11
+R12
+Aa_my_nadder
+R1
+R2
+DEx4 work 9 my_nadder 0 22 7VcQ@IgQ6TmPIYfE:@O:Q3
+l17
+L12
+V[j`AXFkeC4>m1>`QN9FH=1
+!s100 [6_U@QeThjM3lMmCM`HWe3
+R6
+32
+R17
+!i10b 1
+R18
+R144
+R145
+!i113 1
+R11
+R12
+Enbitregister
+Z146 w1582804467
+R1
+R2
+R3
+Z147 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nBitRegister.vhd
+Z148 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nBitRegister.vhd
+l0
+L6
+VY_S`f8o[1miU2=RCo4?CV2
+!s100 [5S`Mn`9EhSR=:QIC@MH01
+R6
+32
+R137
+!i10b 1
+R138
+Z149 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nBitRegister.vhd|
+Z150 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nBitRegister.vhd|
+!i113 1
+R11
+R12
+Anbitregisterarch
+R1
+R2
+DEx4 work 12 nbitregister 0 22 Y_S`f8o[1miU2=RCo4?CV2
+l16
+L14
+V4HiYBlWi@?4@7[C74gbYA2
+!s100 zGXA:CnbZK;[R:?CNQ;VE0
+R6
+32
+R137
+!i10b 1
+R138
+R149
+R150
+!i113 1
+R11
+R12
+Entristatebuffer
+Z151 w1582765107
+R1
+R2
+R3
+Z152 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nTriStateBuffer.vhd
+Z153 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nTriStateBuffer.vhd
+l0
+L6
+V_OWHdH1Co;mzB`[8[jnDd2
+!s100 6KV09`B:hNf1H>J4ZSg[j0
+R6
+32
+R137
+!i10b 1
+R138
+Z154 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nTriStateBuffer.vhd|
+Z155 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nTriStateBuffer.vhd|
+!i113 1
+R11
+R12
+Antristatebufferarch
+R1
+R2
+DEx4 work 15 ntristatebuffer 0 22 _OWHdH1Co;mzB`[8[jnDd2
+l16
+L14
+V9]U7zkKCz_;6M_=Z<C<?70
+!s100 UokDLa5:eiZT2k9[Ni^kT2
+R6
+32
+R137
+!i10b 1
+R138
+R154
+R155
+!i113 1
+R11
+R12
+Enxmdecoder
+Z156 w1582892939
+R14
+R27
+R1
+R2
+R3
+Z157 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nXmDecoder.vhd
+Z158 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nXmDecoder.vhd
+l0
+L18
+V6O[L5mO85C=IJNH2lSW2>3
+!s100 2c=MAYbTLG<d>joHQDhI_3
+R6
+32
+R137
+!i10b 1
+R138
+Z159 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nXmDecoder.vhd|
+Z160 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/nXmDecoder.vhd|
+!i113 1
+R11
+R12
+Anxmdecoderarch
+R14
+R27
+R1
+R2
+DEx4 work 10 nxmdecoder 0 22 6O[L5mO85C=IJNH2lSW2>3
+l31
+L28
+VzEXoMnM`;]F=cdG1ngmSO0
+!s100 <Q:Q2H;?hJkWYh8akVcX;3
+R6
+32
+R137
+!i10b 1
+R138
+R159
+R160
+!i113 1
+R11
+R12
+Eorgate
+Z161 w1588478428
+R1
+R2
+R3
+Z162 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OrGate.vhd
+Z163 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OrGate.vhd
+l0
+L8
+VfZz1gnWK[cT@DM7lz7CaI3
+!s100 <U7Qo>SL0m0Sfg13AEi1`1
+R6
+32
+R137
+!i10b 1
+R138
+Z164 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OrGate.vhd|
+Z165 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OrGate.vhd|
+!i113 1
+R11
+R12
+Aorgatearch
+R1
+R2
+DEx4 work 6 orgate 0 22 fZz1gnWK[cT@DM7lz7CaI3
+l20
+L18
+VdocNBD:Yn_Io;7EOH;gZ?3
+!s100 ^CD1iWF2hTE_U@LeXk9SQ2
+R6
+32
+R137
+!i10b 1
+R138
+R164
+R165
+!i113 1
+R11
+R12
+Eoutport
+Z166 w1588478734
+R1
+R2
+R3
+Z167 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OutPort.vhd
+Z168 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OutPort.vhd
+l0
+L6
+V2]k1YB:e>Elf7>6YeNmIl0
+!s100 5UU8@PoZgY@zDe27Rm=jZ0
+R6
+32
+R137
+!i10b 1
+R138
+Z169 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OutPort.vhd|
+Z170 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/OutPort.vhd|
+!i113 1
+R11
+R12
+Aoutportarch
+R1
+R2
+DEx4 work 7 outport 0 22 2]k1YB:e>Elf7>6YeNmIl0
+l16
+L14
+VVAg3;[j`:z?J4NG`dWMgF0
+!s100 >QiT668367]KADDfaAO[[0
+R6
+32
+R137
+!i10b 1
+R138
+R169
+R170
+!i113 1
+R11
+R12
+Eprogramcounter
+Z171 w1588781533
+R1
+R2
+R3
+Z172 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ProgramCounter.vhd
+Z173 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ProgramCounter.vhd
+l0
+L6
+VM85egmK[VYdfGPC2fINdK1
+!s100 N<V=b3cXjQIH?1>Zc5L9i2
+R6
+32
+R137
+!i10b 1
+R138
+Z174 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ProgramCounter.vhd|
+Z175 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/ProgramCounter.vhd|
+!i113 1
+R11
+R12
+Aprogramcounterarch
+R1
+R2
+DEx4 work 14 programcounter 0 22 M85egmK[VYdfGPC2fINdK1
+l16
+L14
+VcRdX[8[dgiDmiIaScFYCb0
+!s100 VoV[AlAP4fEeCF^CbQWNR0
+R6
+32
+R137
+!i10b 1
+R138
+R174
+R175
+!i113 1
+R11
+R12
+Eregfile
+Z176 w1590936826
+R14
+R27
+R1
+R2
+R3
+Z177 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/RegisterFileModified.vhd
+Z178 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/RegisterFileModified.vhd
+l0
+L15
+V>bO4@PXQj`G62Pb`11_D:0
+!s100 `Z0^k6SE2kU5V]ECM]ADb0
+R6
+32
+R137
+!i10b 1
+R138
+Z179 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/RegisterFileModified.vhd|
+Z180 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/RegisterFileModified.vhd|
+!i113 1
+R11
+R12
+Aregfilearch
+R14
+R27
+R1
+R2
+DEx4 work 7 regfile 0 22 >bO4@PXQj`G62Pb`11_D:0
+l57
+L27
+VB?Kcak[n?6jXiG[7OPnIn0
+!s100 j]m@Oj2ATkVgf4g^CBTlG1
+R6
+32
+R137
+!i10b 1
+R138
+R179
+R180
+!i113 1
+R11
+R12
+Esignextend
+Z181 w1587069997
+R1
+R2
+R3
+Z182 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/SignExtend.vhd
+Z183 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/SignExtend.vhd
+l0
+L8
+VAzZiF7ogT5kjG8ze>jQ^:3
+!s100 f`ME]TQTmU0<MX;ez[NbF0
+R6
+32
+R137
+!i10b 1
+R138
+Z184 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/SignExtend.vhd|
+Z185 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/SignExtend.vhd|
+!i113 1
+R11
+R12
+Asignextendarch
+R1
+R2
+Z186 DEx4 work 10 signextend 0 22 AzZiF7ogT5kjG8ze>jQ^:3
+l19
+L17
+Z187 VM=W3^5X:kzJHS3zW?U`S?3
+Z188 !s100 ZMWOziSa:X8HKhnC^_k3[2
+R6
+32
+R137
+!i10b 1
+R138
+R184
+R185
+!i113 1
+R11
+R12
+Estackpointer
+Z189 w1588831131
+R1
+R2
+R3
+Z190 8D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/StackPointer.vhd
+Z191 FD:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/StackPointer.vhd
+l0
+L7
+V7`AW_oDgI2`3GLN_X[?Ri3
+!s100 >blh>heI4Rb2[2:=U:?R_3
+R6
+32
+R7
+!i10b 1
+R8
+Z192 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/StackPointer.vhd|
+Z193 !s107 D:/Computer_architectueProject2020/FinalSubmissionFiles/PerfectCache/StackPointer.vhd|
+!i113 1
+R11
+R12
+Astackpointerarch
+R1
+R2
+DEx4 work 12 stackpointer 0 22 7`AW_oDgI2`3GLN_X[?Ri3
+l39
+L14
+VRnjfQXTH?;4nofR>?C2U32
+!s100 dY7WPh<[[n5T0z]_<o_Pb3
+R6
+32
+R7
+!i10b 1
+R8
+R192
+R193
+!i113 1
+R11
+R12

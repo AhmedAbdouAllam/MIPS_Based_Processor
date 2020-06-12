@@ -1,0 +1,367 @@
+D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/SignExtend.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/SignExtend.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend
+-- Compiling architecture SignExtendArch of SignExtend
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InteruptHandler.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InteruptHandler.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity InteruptHandler
+-- Compiling architecture InteruptHandlerArch of InteruptHandler
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/AProcessor.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/AProcessor.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity AProcessor
+-- Compiling architecture AProcessorArch of AProcessor
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/OrGate.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/OrGate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity OrGate
+-- Compiling architecture OrGateArch of OrGate
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/nBitRegister.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/nBitRegister.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nBitRegister
+-- Compiling architecture nBitRegisterArch of nBitRegister
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MemoryCacheSystem.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MemoryCacheSystem.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MemoryCacheSystem
+-- Compiling architecture MemoryCacheSystemArch of MemoryCacheSystem
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InstructionFetchingUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InstructionFetchingUnit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity InstructionFetchingUnit
+-- Compiling architecture InstructionFetchingUnitArch of InstructionFetchingUnit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/AdderFetch.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/AdderFetch.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AdderFetch
+-- Compiling architecture ArchAdderFetch of AdderFetch
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/Buffer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/Buffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity IFBuffer
+-- Compiling architecture IFBufferArch of IFBuffer
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MUX8X1.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MUX8X1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUXEightByOne
+-- Compiling architecture ArchMUXEightByOne of MUXEightByOne
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InstructionConcatenator.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InstructionConcatenator.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity InstructionConcatenator
+-- Compiling architecture InstructionConcatenatorArch of InstructionConcatenator
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/DataMemory.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/DataMemory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DataMemory
+-- Compiling architecture DataMemoryArch of DataMemory
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/AndGate.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/AndGate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity AndGate
+-- Compiling architecture AndGateArch of AndGate
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/Latch.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/Latch.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Latch
+-- Compiling architecture LatchArch of Latch
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InteruptBuffer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InteruptBuffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity InteruptBuffer
+-- Compiling architecture InteruptBufferArch of InteruptBuffer
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InstructionDecode.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InstructionDecode.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity InstructionDecodingUnit
+-- Compiling architecture InstructionDecodingUnitArch of InstructionDecodingUnit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InteruptFullUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InteruptFullUnit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity InteruptUnit
+-- Compiling architecture InteruptUnitArch of InteruptUnit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/BitAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/BitAdder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity BitAdder
+-- Compiling architecture ArchBitAdder of BitAdder
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/CacheController.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/CacheController.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CacheController
+-- Compiling architecture CacheControllerArch of CacheController
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MemoryUnitAndWriteBack.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MemoryUnitAndWriteBack.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MemAndWBUnits
+-- Compiling architecture MemAndWBUnitsArch of MemAndWBUnits
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MyALU.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MyALU.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture My_ALU of ALU
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/ProgramCounter.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/ProgramCounter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ProgramCounter
+-- Compiling architecture ProgramCounterArch of ProgramCounter
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/HDU.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/HDU.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HDU
+-- Compiling architecture MY_HDU of HDU
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/LatchOriginal.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/LatchOriginal.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity LatchOriginal
+-- Compiling architecture LatchOriginalArch of LatchOriginal
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/Memory.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/Memory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity InstructionMemory
+-- Compiling architecture InstructionMemoryArch of InstructionMemory
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/nXmDecoder.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/nXmDecoder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity nXmDecoder
+-- Compiling architecture nXmDecoderArch of nXmDecoder
+** Warning: D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/nXmDecoder.vhd(40): (vcom-1073) Non-locally static choice (association #1, choice #1) is allowed only if it is the only choice of the only association.
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/ForwardingUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/ForwardingUnit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FW_Unit
+-- Compiling architecture My_FW_Unit of FW_Unit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/GeneralIntermidieteBuffer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/GeneralIntermidieteBuffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity GeneralBuffer
+-- Compiling architecture GeneralBufferArch of GeneralBuffer
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MyNBitAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MyNBitAdder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_nadder
+-- Compiling architecture a_my_nadder of my_nadder
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/OneBitBuffer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/OneBitBuffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity OneBitBuffer
+-- Compiling architecture OneBitBufferArch of OneBitBuffer
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/ExecutionUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/ExecutionUnit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity ExecutionUnit
+-- Compiling architecture ExecutionUnitUnitArch of ExecutionUnit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/Mux2X1.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/Mux2X1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUXTwoByOne
+-- Compiling architecture ArchMUXTwoByOne of MUXTwoByOne
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/OutPort.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/OutPort.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Outport
+-- Compiling architecture OutportArch of Outport
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/DataCache.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/DataCache.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DataCachee
+-- Compiling architecture DataCacheArch of DataCachee
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InstructionCache.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/InstructionCache.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity InstructionCachee
+-- Compiling architecture InstructionCacheArch of InstructionCachee
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MainMemory.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MainMemory.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MainMemory
+-- Compiling architecture MainMemoryArch of MainMemory
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/RegisterFileModified.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/RegisterFileModified.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MATH_REAL
+-- Loading package NUMERIC_STD
+-- Compiling entity RegFile
+-- Compiling architecture RegFileArch of RegFile
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/FlagRegister.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/FlagRegister.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FlagRegister
+-- Compiling architecture FlagRegisterArch of FlagRegister
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/StackPointer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/StackPointer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity StackPointer
+-- Compiling architecture StackPointerArch of StackPointer
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/Mux4X1.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/Mux4X1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUXFourByOne
+-- Compiling architecture ArchMUXFourByOne of MUXFourByOne
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MyOneBitAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/MyOneBitAdder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity my_adder
+-- Compiling architecture a_my_adder of my_adder
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/cu.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/cu.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ControlUnit
+-- Compiling architecture ControlUnitArch of ControlUnit
+
+} {} {}} D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/nTriStateBuffer.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Computer_architectueProject2020/FinalSubmissionFiles/AProcessor_Final/nTriStateBuffer.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity nTriStateBuffer
+-- Compiling architecture nTriStateBufferArch of nTriStateBuffer
+
+} {} {}}
